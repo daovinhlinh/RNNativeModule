@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RNNativeModule</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">DO_NOT_ASK_JAVASCRIPT</string>
+<string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+<string name="CodePushDeploymentKey" moduleConfig="true" >PoFh4ydtORAe2fX4HOuYrWmfrgtZqISOW1jgk</string>
+</resources>
