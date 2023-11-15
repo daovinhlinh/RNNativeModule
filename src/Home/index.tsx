@@ -93,7 +93,7 @@ const Home = () => {
       <Text>Home {state}</Text>
       <Button title="Increase" onPress={() => setState(state + 1)} />
       <Button
-        title="Go to screen 1"
+        title="Go to screen"
         onPress={() => {
           navigation.push('Screen1');
         }}
